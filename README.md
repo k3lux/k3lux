@@ -1,4 +1,4 @@
-### Hi there im Saqib Chowdhury! A proffesional python developer based in the United Kingdom! 👋
+### Hi there im Saqib Chowdhury! A professional python developer based in the United Kingdom! 👋
 
 
 - 🔭 I’m currently working on CentroNodes Hosting!
