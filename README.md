@@ -1,8 +1,8 @@
-### Hi there im Saqib Chowdhury! A proffesional python developer based in the United Kingdom! 👋
+### Hi there im Saqib! A proffesional python and javascript developer based in the United Kingdom! 👋
 
 
 - 🔭 I’m currently working on CentroNodes Hosting!
-- 🌱 I’m currently learning JavaScript, CSS, PHP and HTML!
+- 🌱 I’m currently learning Java, PHP and C#!
 - 📫 How to reach me: DM Me on discord! Saqib#9999
 - 🌱 I am a developer based in the United Kingdom.
 
