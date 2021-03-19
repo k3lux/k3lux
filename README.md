@@ -1,5 +1,3 @@
-                           Hey, i'm Saqib a developer based in the United Kingdom!
-
 <h3 align="center">
   <img src="https://img.shields.io/github/followers/S4qib?label=Followers&style=for-the-badge&color=blue">
   <a href="https://discord.gg/zbSNTPEy8j" alt="Discord">
