@@ -1,6 +1,6 @@
 <h3 align="center">
   <img src="https://img.shields.io/github/followers/S4qib?label=Followers&style=for-the-badge&color=blue">
-  <a href="https://discord.gg/zbSNTPEy8j" alt="Discord">
+  <a href="https://discord.gg" alt="Discord">
       <img src="https://img.shields.io/discord/452518336627081236?label=discord&style=for-the-badge&color=blue"/>
   </a>
   <a href="https://yuuta.xyz" alt="Website">
