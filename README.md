@@ -16,8 +16,6 @@
   </a>
   <br>
   <br>
-  <br>
-  <br>
   <a href="https://github.com/S4qib">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S4qib&layout=compact&theme=onedark">
   </a>
