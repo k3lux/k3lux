@@ -1,6 +1,5 @@
 # Languages & Tools:
-<img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" height="50" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" height="50" />
+<img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" height="50" /> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" height="50" />
 
 # Github Stats:
 
