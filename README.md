@@ -1,15 +1,4 @@
-<h1>👋 | Hey! I'm Saqib. </h1>
-<h3 align="center">
-  <img src="https://img.shields.io/github/followers/S4qib?label=Followers&style=for-the-badge&color=blue">
-  <a href="https://discord.gg" alt="Discord">
-      <img src="https://img.shields.io/discord/452518336627081236?label=discord&style=for-the-badge&color=blue"/>
-  </a>
-  <a href="https://yuuta.xyz" alt="Website">
-      <img src="https://img.shields.io/website?down_color=red&down_message=Offline&style=for-the-badge&up_color=blue&up_message=Online&url=https%3A%2F%2Fwillfp.com"/>
-  </a>
-</h3>
-
-<hr>
+# Github Stats:
 
 <h2 align="center">
   <a href="https://github.com/S4qib">
