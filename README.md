@@ -1,5 +1,5 @@
 <h1 align="center">👋 | Hi, i'm Saqib!</h1>
-
+<br>
 <p>• I am from the United Kingdom</p>
 <p>• I am currently learning PHP</p>
 <p>• I can code Python, Javascript and Typescript!</p>
