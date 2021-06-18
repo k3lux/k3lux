@@ -1,5 +1,5 @@
 # Languages & Tools:
-<img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" height="20" />
+<img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" height="50" />
 
 # Github Stats:
 
