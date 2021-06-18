@@ -1,7 +1,5 @@
 # Languages & Tools:
-<a href="https://nodejs.org/"><img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" height="50" /></a>  <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" height="50" /></a>  <a href="https://www.typescriptlang.org/"><img src="https://miro.medium.com/max/816/1*TpbxEQy4ckB-g31PwUQPlg.png" height="50" /></a>   <a href="https://www.docker.com/"><img src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/Moby-logo.png?itok=sYH_JEaJ" height="50" /></a>
-
-# Github Stats:
+<a href="https://nodejs.org/"><img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" height="50" /></a>  <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" height="50" /></a>  <a href="https://www.typescriptlang.org/"><img src="https://miro.medium.com/max/816/1*TpbxEQy4ckB-g31PwUQPlg.png" height="50" /></a>   <a href="https://www.docker.com/"><img src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/Moby-logo.png?itok=sYH_JEaJ" height="50" /></a> <a href="https://code.visualstudio.com/"><img src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" height="50" /></a>
 
 # Github Stats:
 
