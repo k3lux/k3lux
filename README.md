@@ -1,5 +1,9 @@
 <h1 align="center">👋 | Hi, i'm Saqib!</h1>
-<br><br><br>
+
+• I am from the United Kingdom
+• I am currently learning PHP
+• I can code Python, Javascript and Typescript!
+
 
 # Languages & Tools:
 
