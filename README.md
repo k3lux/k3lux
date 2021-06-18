@@ -1,8 +1,8 @@
 <h1 align="center">👋 | Hi, i'm Saqib!</h1>
 
-• I am from the United Kingdom
-• I am currently learning PHP
-• I can code Python, Javascript and Typescript!
+<p>• I am from the United Kingdom</p>
+<p>• I am currently learning PHP</p>
+<p>• I can code Python, Javascript and Typescript!</p>
 
 
 # Languages & Tools:
