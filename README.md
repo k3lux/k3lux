@@ -1,5 +1,5 @@
 # Languages & Tools:
-<img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" height="50" />  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" height="50" />  <img src="https://miro.medium.com/max/816/1*TpbxEQy4ckB-g31PwUQPlg.png" height="50" />   <img src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/Moby-logo.png?itok=sYH_JEaJ" height="50" /> 
+<a href="https://nodejs.org/"><img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" height="50" /></a>  <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" height="50" /></a>  <a href="https://www.typescriptlang.org/"><img src="https://miro.medium.com/max/816/1*TpbxEQy4ckB-g31PwUQPlg.png" height="50" /></a>   <a href="https://www.docker.com/"><img src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/Moby-logo.png?itok=sYH_JEaJ" height="50" /></a
 
 # Github Stats:
 
