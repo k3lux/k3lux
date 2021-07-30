@@ -26,6 +26,6 @@
   <br>
   <br>
   <a href="https://github.com/S4qib">
-     <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=S4qib&layout=compact&theme=onedark"> 
+     <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@S4qib&layout=compact&theme=onedark"> 
   </a> 
 </h2>
