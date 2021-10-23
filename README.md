@@ -1,13 +1,13 @@
 <h1 align="center">👋 | Hi, i'm Saqib!</h1>
 <br><br>
 
-# Languages & Tools:
+<h1 align-"center"> Languages & Tools:</h1>
 <br>
 
 <a href="https://nodejs.org/"><img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" height="50" /></a>  <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" height="50" /></a>  <a href="https://www.typescriptlang.org/"><img src="https://miro.medium.com/max/816/1*TpbxEQy4ckB-g31PwUQPlg.png" height="50" /></a> <a href="https://php.net"><img src="https://camo.githubusercontent.com/e88f1a61de2ee686c4633f9a07472b2fba5633b7ba7875d03e8e76a2054bb850/68747470733a2f2f636c69706172742e696e666f2f696d616765732f63636f766572732f313439393739343837337068702d6c6f676f2d66696c6c65642d706e672e706e67" height="50" /></a>  <a href=""><img src="https://i.ibb.co/C8YvbYj/image-removebg-preview-2.png" height="50" /></a>  <a href="https://www.gnu.org/software/bash/"><img src="https://github.com/odb/official-bash-logo/blob/master/assets/Logos/Icons/PNG/48x48.png?raw=true" height="50" /></a>  <a href="https://www.docker.com/"><img src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/Moby-logo.png?itok=sYH_JEaJ" height="50" /></a> <a href="https://code.visualstudio.com/"><img src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" height="50" /></a> <a href="https://www.microsoft.com/en-gb/windows"><img src="https://camo.githubusercontent.com/99632c3da77e6b8993b10af81819a83aa2696e7e37b277dfdf0c062c538b7d0a/68747470733a2f2f7365656b6c6f676f2e636f6d2f696d616765732f572f77696e646f77732d31302d69636f6e2d6c6f676f2d354243354336393731322d7365656b6c6f676f2e636f6d2e706e67" height="50" /></a> <a href="https://mongodb.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" height="50" /></a>  <a href="https://nginx.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" height="50" /></a>  <a href="https://mysql.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="50" /></a>  <a href="https://expressjs.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" height="50" /></a> 
 <br>
 
-# Github Stats:
+<h1 align-"center"> Github Stats:</h1>
 <br>
 
 <h2 align="center">
