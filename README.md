@@ -21,7 +21,5 @@
   </a> 
   <br>
   <br>
-  <a href="https://github.com/S4qib">
-     <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@SaqibIsHere&layout=compact&theme=onedark"> 
-  </a> 
+
 </h2>
